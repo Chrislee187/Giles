@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Giles.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "./"
+    }
+  }
+}
